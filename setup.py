@@ -32,7 +32,7 @@ setup(
     maintainer="aj-jaiswal007",
     license='MIT License',
     description='Simple mem cache client for python',
-    keywords=['MEMCACHE', 'CACHE', 'PYTHON CACHE', 'SIMPLE CACHE'],
+    keywords=['MEMCACHE', 'CACHE', 'PYTHON CACHE', 'SIMPLE CACHE', "LRU CACHE"],
     install_requires=install_requires,
     extras_require={'test': tests_require},
     long_description=readme,
