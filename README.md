@@ -72,4 +72,4 @@ print(cache_size)  # Output: 1
 Feel free to contribute by opening issues or submitting pull requests on the [GitHub repository](https://github.com/aj-jaiswal007/SimpleMemCache).
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/aj-jaiswal007/SimpleMemCache?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aj-jaiswal007/SimpleMemCache/blob/master/LICENSE) file for details.
