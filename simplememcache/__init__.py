@@ -1,1 +1,1 @@
-from .base_cache import BaseCache  # noqa
+from .base import BaseCache  # noqa
